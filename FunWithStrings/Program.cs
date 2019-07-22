@@ -11,6 +11,6 @@ namespace FunWithStrings
         static void Main(string[] args)
         {
             Console.WriteLine("Striыng!");
-        }
+        }        
     }
 }
