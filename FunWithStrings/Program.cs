@@ -10,7 +10,7 @@ namespace FunWithStrings
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("String!");
+            Console.WriteLine("Striыng!");
         }
     }
 }
